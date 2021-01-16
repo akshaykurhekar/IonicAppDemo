@@ -1,0 +1,19 @@
+ion-thumbnail{
+     --border-radius: 2.5rem;
+}
+
+ion-item{
+    --color:rgb(46, 133, 155);
+}
+.content{
+    padding: 2rem;
+    font-style:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium; 
+    font-weight: 600;
+}
+
+.footer{
+    padding: 1.5rem;
+    margin-top: 9rem;
+    color: rgb(7, 58, 105);
+}
